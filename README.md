@@ -22,6 +22,7 @@ I built this because I wanted to see the token difference between formats but it
 
 ## Example Output
 
+```
 ============================================================
 GitHub Events Tokenization Analysis
 User: wayneworkman | Events: 35
@@ -57,3 +58,4 @@ FILES CREATED
 +-------------------+---------------+----------------------------------------+
 | reduced_yaml.yaml | 2,625         | Filtered events data in YAML format    |
 +-------------------+---------------+----------------------------------------+
+```
