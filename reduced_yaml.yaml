@@ -1,0 +1,247 @@
+- created_at: '2025-09-18T01:53:37+00:00'
+  fork_description: A tool to attach persistent storage devices to autoscaling cloud
+    servers.
+  fork_name: wayneworkman/cloud-persistent-storage
+  repo: mfenniak/cloud-persistent-storage
+  type: ForkEvent
+- action: started
+  created_at: '2025-09-18T01:53:24+00:00'
+  repo: mfenniak/cloud-persistent-storage
+  type: WatchEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-13T02:33:34+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-13T02:32:29+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-10T02:21:00+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-09T23:37:24+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- created_at: '2025-09-03T23:14:48+00:00'
+  ref: v0.1.1
+  ref_type: tag
+  repo: wayneworkman/terraform_module_cloudfront
+  type: CreateEvent
+- branch: master
+  commits:
+  - author: Wayne Workman
+    message: "Fix WAF OR statement bug and add rate limiting support\n\n  - Fix issue\
+      \ with OR statement requiring minimum 2 child statements\n    by using conditional\
+      \ logic to avoid OR when only one IP set exists\n  - Add rate limiting support\
+      \ with configurable parameters:\n    - enable_rate_limiting: Enable/disable\
+      \ rate limiting\n    - rate_limit_requests: Number of requests allowed per IP\n\
+      \    - rate_limit_evaluation_window_sec: Time window in seconds\n\n  This fixes\
+      \ deployment errors when using only IPv4 or IPv6 allowlists\n  and enables per-IP\
+      \ rate limiting for CloudFront distributions"
+  created_at: '2025-09-03T23:14:38+00:00'
+  repo: wayneworkman/terraform_module_cloudfront
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: swap to opus to get the truth
+  created_at: '2025-09-01T13:59:29+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: remove referneces to nova.
+  created_at: '2025-09-01T02:28:56+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Improve prompt instructions, terraform warnings, and cut tool usage out
+      of reports.
+  created_at: '2025-09-01T02:17:23+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Added invoke example for nova lite
+  - author: Wayne Workman
+    message: Changes necessary using the invoke API, going from Nova Lite to Opus
+      4.
+  - author: Wayne Workman
+    message: strip the comments
+  created_at: '2025-08-27T01:13:13+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Converse API changes necessary to go from Nova Lite to Opus 4
+  created_at: '2025-08-27T00:53:09+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Necessary changes for invoke API from Opus 4 to Nova Lite
+  created_at: '2025-08-27T00:51:54+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Added invoke example
+  - author: Wayne Workman
+    message: Change model names to model, to be generic.
+  created_at: '2025-08-27T00:44:53+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- action: published
+  created_at: '2025-08-24T04:18:48+00:00'
+  release_name: v0.2.0
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  tag: v0.2.0
+  type: ReleaseEvent
+- created_at: '2025-08-24T04:16:42+00:00'
+  ref: v0.2.0
+  ref_type: tag
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: CreateEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Remove aws cli, use converse api, use aws nova
+  created_at: '2025-08-24T03:34:42+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: change limits
+  created_at: '2025-08-24T03:34:35+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Remove aws cli, use converse api, use aws nova
+  created_at: '2025-08-24T03:29:47+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: tests
+  created_at: '2025-08-24T03:29:34+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Remove aws cli, use converse api, use aws nova
+  created_at: '2025-08-24T03:08:13+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: update readme
+  created_at: '2025-08-24T03:07:45+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: use converse API, default to nova, remove aws cli
+  created_at: '2025-08-24T03:05:18+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: expanded tests
+  created_at: '2025-08-24T03:04:07+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: more updates
+  created_at: '2025-08-24T02:17:31+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: remove this.
+  created_at: '2025-08-24T02:13:15+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Add these vars
+  created_at: '2025-08-24T02:12:01+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: testing help
+  created_at: '2025-08-24T02:05:50+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: corrections
+  created_at: '2025-08-24T01:59:25+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: More cleanup
+  created_at: '2025-08-24T01:46:11+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: remove limits
+  created_at: '2025-08-24T01:24:25+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: All tests are passing here.
+  created_at: '2025-08-24T00:56:41+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: tests are working
+  created_at: '2025-08-23T20:25:11+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- created_at: '2025-08-23T20:24:52+00:00'
+  repo: wayneworkman/bedrock-crossregion-tool-workaround
+  type: PublicEvent

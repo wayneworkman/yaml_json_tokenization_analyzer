@@ -1,0 +1,1242 @@
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-18T01:53:37+00:00'
+  id: '54854543588'
+  org: null
+  payload:
+    forkee:
+      allow_forking: true
+      archive_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/{archive_format}{/ref}
+      archived: false
+      assignees_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/assignees{/user}
+      blobs_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/git/blobs{/sha}
+      branches_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/branches{/branch}
+      clone_url: https://github.com/wayneworkman/cloud-persistent-storage.git
+      collaborators_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/collaborators{/collaborator}
+      comments_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/comments{/number}
+      commits_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/commits{/sha}
+      compare_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/compare/{base}...{head}
+      contents_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/contents/{+path}
+      contributors_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/contributors
+      created_at: '2025-09-18T01:53:35Z'
+      default_branch: master
+      deployments_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/deployments
+      description: A tool to attach persistent storage devices to autoscaling cloud
+        servers.
+      disabled: false
+      downloads_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/downloads
+      events_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/events
+      fork: true
+      forks: 0
+      forks_count: 0
+      forks_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/forks
+      full_name: wayneworkman/cloud-persistent-storage
+      git_commits_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/git/commits{/sha}
+      git_refs_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/git/refs{/sha}
+      git_tags_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/git/tags{/sha}
+      git_url: git://github.com/wayneworkman/cloud-persistent-storage.git
+      has_discussions: false
+      has_downloads: true
+      has_issues: false
+      has_pages: false
+      has_projects: true
+      has_wiki: true
+      homepage: ''
+      hooks_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/hooks
+      html_url: https://github.com/wayneworkman/cloud-persistent-storage
+      id: 1059095589
+      is_template: false
+      issue_comment_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/issues/comments{/number}
+      issue_events_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/issues/events{/number}
+      issues_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/issues{/number}
+      keys_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/keys{/key_id}
+      labels_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/labels{/name}
+      language: null
+      languages_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/languages
+      license:
+        key: other
+        name: Other
+        node_id: MDc6TGljZW5zZTA=
+        spdx_id: NOASSERTION
+        url: null
+      merges_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/merges
+      milestones_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/milestones{/number}
+      mirror_url: null
+      name: cloud-persistent-storage
+      node_id: R_kgDOPyCEJQ
+      notifications_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/notifications{?since,all,participating}
+      open_issues: 0
+      open_issues_count: 0
+      owner:
+        avatar_url: https://avatars.githubusercontent.com/u/13314799?v=4
+        events_url: https://api.github.com/users/wayneworkman/events{/privacy}
+        followers_url: https://api.github.com/users/wayneworkman/followers
+        following_url: https://api.github.com/users/wayneworkman/following{/other_user}
+        gists_url: https://api.github.com/users/wayneworkman/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/wayneworkman
+        id: 13314799
+        login: wayneworkman
+        node_id: MDQ6VXNlcjEzMzE0Nzk5
+        organizations_url: https://api.github.com/users/wayneworkman/orgs
+        received_events_url: https://api.github.com/users/wayneworkman/received_events
+        repos_url: https://api.github.com/users/wayneworkman/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/wayneworkman/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/wayneworkman/subscriptions
+        type: User
+        url: https://api.github.com/users/wayneworkman
+        user_view_type: public
+      private: false
+      public: true
+      pulls_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/pulls{/number}
+      pushed_at: '2017-03-31T01:57:13Z'
+      releases_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/releases{/id}
+      size: 78
+      ssh_url: git@github.com:wayneworkman/cloud-persistent-storage.git
+      stargazers_count: 0
+      stargazers_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/stargazers
+      statuses_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/statuses/{sha}
+      subscribers_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/subscribers
+      subscription_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/subscription
+      svn_url: https://github.com/wayneworkman/cloud-persistent-storage
+      tags_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/tags
+      teams_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/teams
+      topics: []
+      trees_url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage/git/trees{/sha}
+      updated_at: '2025-09-18T01:53:35Z'
+      url: https://api.github.com/repos/wayneworkman/cloud-persistent-storage
+      visibility: public
+      watchers: 0
+      watchers_count: 0
+      web_commit_signoff_required: false
+  public: true
+  repo:
+    id: 85652510
+    name: mfenniak/cloud-persistent-storage
+    url: https://api.github.com/repos/mfenniak/cloud-persistent-storage
+  type: ForkEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-18T01:53:24+00:00'
+  id: '54854538549'
+  org: null
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 85652510
+    name: mfenniak/cloud-persistent-storage
+    url: https://api.github.com/repos/mfenniak/cloud-persistent-storage
+  type: WatchEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-13T02:33:34+00:00'
+  id: '54642601152'
+  org: null
+  payload:
+    before: 33b3357e5dcdbfd2a10a44d31ce0e1ab23204ffb
+    commits:
+    - author:
+        email: 13314799+wayneworkman@users.noreply.github.com
+        name: Rogue Engineer of the Future
+      distinct: true
+      message: Update README.md
+      sha: 1f07ff4ada853025f227512fc6206ea9a51e9e69
+      url: https://api.github.com/repos/wayneworkman/wayneworkman/commits/1f07ff4ada853025f227512fc6206ea9a51e9e69
+    distinct_size: 1
+    head: 1f07ff4ada853025f227512fc6206ea9a51e9e69
+    push_id: 26778506871
+    ref: refs/heads/main
+    repository_id: 483447995
+    size: 1
+  public: true
+  repo:
+    id: 483447995
+    name: wayneworkman/wayneworkman
+    url: https://api.github.com/repos/wayneworkman/wayneworkman
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-13T02:32:29+00:00'
+  id: '54642590304'
+  org: null
+  payload:
+    before: 97863fecc0046ad530bc47ba992785eff84a2ed3
+    commits:
+    - author:
+        email: 13314799+wayneworkman@users.noreply.github.com
+        name: Rogue Engineer of the Future
+      distinct: true
+      message: Update README.md
+      sha: 33b3357e5dcdbfd2a10a44d31ce0e1ab23204ffb
+      url: https://api.github.com/repos/wayneworkman/wayneworkman/commits/33b3357e5dcdbfd2a10a44d31ce0e1ab23204ffb
+    distinct_size: 1
+    head: 33b3357e5dcdbfd2a10a44d31ce0e1ab23204ffb
+    push_id: 26778500082
+    ref: refs/heads/main
+    repository_id: 483447995
+    size: 1
+  public: true
+  repo:
+    id: 483447995
+    name: wayneworkman/wayneworkman
+    url: https://api.github.com/repos/wayneworkman/wayneworkman
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-10T02:21:00+00:00'
+  id: '54482614419'
+  org: null
+  payload:
+    before: d23bfcda22566f9833eb862e26b0cfc167cec00d
+    commits:
+    - author:
+        email: 13314799+wayneworkman@users.noreply.github.com
+        name: Rogue Engineer of the Future
+      distinct: true
+      message: Update README.md
+      sha: 97863fecc0046ad530bc47ba992785eff84a2ed3
+      url: https://api.github.com/repos/wayneworkman/wayneworkman/commits/97863fecc0046ad530bc47ba992785eff84a2ed3
+    distinct_size: 1
+    head: 97863fecc0046ad530bc47ba992785eff84a2ed3
+    push_id: 26701723646
+    ref: refs/heads/main
+    repository_id: 483447995
+    size: 1
+  public: true
+  repo:
+    id: 483447995
+    name: wayneworkman/wayneworkman
+    url: https://api.github.com/repos/wayneworkman/wayneworkman
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-09T23:37:24+00:00'
+  id: '54478629189'
+  org: null
+  payload:
+    before: bb5737051907ec822fbb57a99b54cd76547d9227
+    commits:
+    - author:
+        email: 13314799+wayneworkman@users.noreply.github.com
+        name: Rogue Engineer of the Future
+      distinct: true
+      message: Update README.md
+      sha: d23bfcda22566f9833eb862e26b0cfc167cec00d
+      url: https://api.github.com/repos/wayneworkman/wayneworkman/commits/d23bfcda22566f9833eb862e26b0cfc167cec00d
+    distinct_size: 1
+    head: d23bfcda22566f9833eb862e26b0cfc167cec00d
+    push_id: 26699737491
+    ref: refs/heads/main
+    repository_id: 483447995
+    size: 1
+  public: true
+  repo:
+    id: 483447995
+    name: wayneworkman/wayneworkman
+    url: https://api.github.com/repos/wayneworkman/wayneworkman
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-03T23:14:48+00:00'
+  id: '54219947609'
+  org: null
+  payload:
+    description: Creates a secure cloudfront site.
+    master_branch: master
+    pusher_type: user
+    ref: v0.1.1
+    ref_type: tag
+  public: true
+  repo:
+    id: 453296012
+    name: wayneworkman/terraform_module_cloudfront
+    url: https://api.github.com/repos/wayneworkman/terraform_module_cloudfront
+  type: CreateEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-03T23:14:38+00:00'
+  id: '54219943442'
+  org: null
+  payload:
+    before: 7a3c519f2c5c2bab9dae1d4a8532846e2b885e13
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: "Fix WAF OR statement bug and add rate limiting support\n\n  - Fix\
+        \ issue with OR statement requiring minimum 2 child statements\n    by using\
+        \ conditional logic to avoid OR when only one IP set exists\n  - Add rate\
+        \ limiting support with configurable parameters:\n    - enable_rate_limiting:\
+        \ Enable/disable rate limiting\n    - rate_limit_requests: Number of requests\
+        \ allowed per IP\n    - rate_limit_evaluation_window_sec: Time window in seconds\n\
+        \n  This fixes deployment errors when using only IPv4 or IPv6 allowlists\n\
+        \  and enables per-IP rate limiting for CloudFront distributions"
+      sha: e78ff7c17700b8bdf09ee5e594e35cd246374c05
+      url: https://api.github.com/repos/wayneworkman/terraform_module_cloudfront/commits/e78ff7c17700b8bdf09ee5e594e35cd246374c05
+    distinct_size: 1
+    head: e78ff7c17700b8bdf09ee5e594e35cd246374c05
+    push_id: 26569774688
+    ref: refs/heads/master
+    repository_id: 453296012
+    size: 1
+  public: true
+  repo:
+    id: 453296012
+    name: wayneworkman/terraform_module_cloudfront
+    url: https://api.github.com/repos/wayneworkman/terraform_module_cloudfront
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-01T13:59:29+00:00'
+  id: '54094141061'
+  org: null
+  payload:
+    before: b3273f97b9541d1b489160eae500507e511a92eb
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: swap to opus to get the truth
+      sha: a92aca4b6e38557c73e29d8d1c3cf30f4f1daee9
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/a92aca4b6e38557c73e29d8d1c3cf30f4f1daee9
+    distinct_size: 1
+    head: a92aca4b6e38557c73e29d8d1c3cf30f4f1daee9
+    push_id: 26508853678
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-01T02:28:56+00:00'
+  id: '54067444388'
+  org: null
+  payload:
+    before: fcc63fae5a48ce8e329ef7363e83eeebfc9c87a8
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: remove referneces to nova.
+      sha: b3273f97b9541d1b489160eae500507e511a92eb
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/b3273f97b9541d1b489160eae500507e511a92eb
+    distinct_size: 1
+    head: b3273f97b9541d1b489160eae500507e511a92eb
+    push_id: 26496007458
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-09-01T02:17:23+00:00'
+  id: '54067199571'
+  org: null
+  payload:
+    before: 022ce12e811282300a1c6ce30949d750c459772d
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Improve prompt instructions, terraform warnings, and cut tool usage
+        out of reports.
+      sha: fcc63fae5a48ce8e329ef7363e83eeebfc9c87a8
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/fcc63fae5a48ce8e329ef7363e83eeebfc9c87a8
+    distinct_size: 1
+    head: fcc63fae5a48ce8e329ef7363e83eeebfc9c87a8
+    push_id: 26495892270
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-27T01:13:13+00:00'
+  id: '53876623961'
+  org: null
+  payload:
+    before: 9bbf344381d92e1bdc179e6a3d5739946d53fbc7
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Added invoke example for nova lite
+      sha: 4c0b85f95ef359cce1b199f3dc446c3d0aa8c185
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/4c0b85f95ef359cce1b199f3dc446c3d0aa8c185
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Changes necessary using the invoke API, going from Nova Lite to Opus
+        4.
+      sha: 04f507034dd847e4a894298c784b838b1765053e
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/04f507034dd847e4a894298c784b838b1765053e
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: strip the comments
+      sha: 7208140d022df0546034f64c32df61865806eed4
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/7208140d022df0546034f64c32df61865806eed4
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Changes necessary to change models via the converse API
+      sha: fe8bd90f9f2a6d920ee60bed3baf1ae0a9f01749
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/fe8bd90f9f2a6d920ee60bed3baf1ae0a9f01749
+    distinct_size: 4
+    head: fe8bd90f9f2a6d920ee60bed3baf1ae0a9f01749
+    push_id: 26396931860
+    ref: refs/heads/main
+    repository_id: 1038297066
+    size: 4
+  public: true
+  repo:
+    id: 1038297066
+    name: wayneworkman/python_aws_bedrock_converse_example
+    url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-27T00:53:09+00:00'
+  id: '53876149156'
+  org: null
+  payload:
+    before: 213e5121225e46ed9201377147eb66938910ff94
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Converse API changes necessary to go from Nova Lite to Opus 4
+      sha: 9bbf344381d92e1bdc179e6a3d5739946d53fbc7
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/9bbf344381d92e1bdc179e6a3d5739946d53fbc7
+    distinct_size: 1
+    head: 9bbf344381d92e1bdc179e6a3d5739946d53fbc7
+    push_id: 26396682038
+    ref: refs/heads/main
+    repository_id: 1038297066
+    size: 1
+  public: true
+  repo:
+    id: 1038297066
+    name: wayneworkman/python_aws_bedrock_converse_example
+    url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-27T00:51:54+00:00'
+  id: '53876120329'
+  org: null
+  payload:
+    before: 1738d30766393e8c90a240732a6df23f6a7a4549
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Necessary changes for invoke API from Opus 4 to Nova Lite
+      sha: 213e5121225e46ed9201377147eb66938910ff94
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/213e5121225e46ed9201377147eb66938910ff94
+    distinct_size: 1
+    head: 213e5121225e46ed9201377147eb66938910ff94
+    push_id: 26396667271
+    ref: refs/heads/main
+    repository_id: 1038297066
+    size: 1
+  public: true
+  repo:
+    id: 1038297066
+    name: wayneworkman/python_aws_bedrock_converse_example
+    url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-27T00:44:53+00:00'
+  id: '53875958204'
+  org: null
+  payload:
+    before: 9b03d301bd81474d71d9ad87a853da56fa0f8aff
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Added invoke example
+      sha: 8c50760df2881004aa934f1d928c581ed0b3c47a
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/8c50760df2881004aa934f1d928c581ed0b3c47a
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Change model names to model, to be generic.
+      sha: 1738d30766393e8c90a240732a6df23f6a7a4549
+      url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example/commits/1738d30766393e8c90a240732a6df23f6a7a4549
+    distinct_size: 2
+    head: 1738d30766393e8c90a240732a6df23f6a7a4549
+    push_id: 26396587598
+    ref: refs/heads/main
+    repository_id: 1038297066
+    size: 2
+  public: true
+  repo:
+    id: 1038297066
+    name: wayneworkman/python_aws_bedrock_converse_example
+    url: https://api.github.com/repos/wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T04:18:48+00:00'
+  id: '53752330969'
+  org: null
+  payload:
+    action: published
+    release:
+      assets: []
+      assets_url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/releases/242079525/assets
+      author:
+        avatar_url: https://avatars.githubusercontent.com/u/13314799?v=4
+        events_url: https://api.github.com/users/wayneworkman/events{/privacy}
+        followers_url: https://api.github.com/users/wayneworkman/followers
+        following_url: https://api.github.com/users/wayneworkman/following{/other_user}
+        gists_url: https://api.github.com/users/wayneworkman/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/wayneworkman
+        id: 13314799
+        login: wayneworkman
+        node_id: MDQ6VXNlcjEzMzE0Nzk5
+        organizations_url: https://api.github.com/users/wayneworkman/orgs
+        received_events_url: https://api.github.com/users/wayneworkman/received_events
+        repos_url: https://api.github.com/users/wayneworkman/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/wayneworkman/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/wayneworkman/subscriptions
+        type: User
+        url: https://api.github.com/users/wayneworkman
+        user_view_type: public
+      body: "- Removed AWS CLI tool.\r\n- Switched to the AWS Bedrock Converse API.\r\
+        \n- Added an s3 bucket to hold reports.\r\n- Simplified a lot of configuration.\r\
+        \n- Various other improvements."
+      created_at: '2025-08-24T03:34:38Z'
+      draft: false
+      html_url: https://github.com/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/releases/tag/v0.2.0
+      id: 242079525
+      immutable: false
+      is_short_description_html_truncated: false
+      name: v0.2.0
+      node_id: RE_kwDOPZZE2c4Obdcl
+      prerelease: false
+      published_at: '2025-08-24T04:18:47Z'
+      short_description_html: '<ul>
+
+        <li>Removed AWS CLI tool.</li>
+
+        <li>Switched to the AWS Bedrock Converse API.</li>
+
+        <li>Added an s3 bucket to hold reports.</li>
+
+        <li>Simplified a lot of configuration.</li>
+
+        <li>Various other improvements.</li>
+
+        </ul>'
+      tag_name: v0.2.0
+      tarball_url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/tarball/v0.2.0
+      target_commitish: main
+      updated_at: '2025-08-24T04:18:47Z'
+      upload_url: https://uploads.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/releases/242079525/assets{?name,label}
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/releases/242079525
+      zipball_url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/zipball/v0.2.0
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: ReleaseEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T04:16:42+00:00'
+  id: '53752310219'
+  org: null
+  payload:
+    description: Uses AWS Bedrock to triage activated CloudWatch Alarms, giving responders
+      greater context to act upon.
+    master_branch: main
+    pusher_type: user
+    ref: v0.2.0
+    ref_type: tag
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: CreateEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:34:42+00:00'
+  id: '53751847664'
+  org: null
+  payload:
+    before: 6b29eb14cc78570ddb70e3a3dccc3d8f454e44a6
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Remove aws cli, use converse api, use aws nova
+      sha: 022ce12e811282300a1c6ce30949d750c459772d
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/022ce12e811282300a1c6ce30949d750c459772d
+    distinct_size: 1
+    head: 022ce12e811282300a1c6ce30949d750c459772d
+    push_id: 26333701636
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:34:35+00:00'
+  id: '53751846506'
+  org: null
+  payload:
+    before: 55120e73a36da9cb0a5418c5f45190e6e6048bd0
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: change limits
+      sha: 6b29eb14cc78570ddb70e3a3dccc3d8f454e44a6
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/6b29eb14cc78570ddb70e3a3dccc3d8f454e44a6
+    distinct_size: 1
+    head: 6b29eb14cc78570ddb70e3a3dccc3d8f454e44a6
+    push_id: 26333700887
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:29:47+00:00'
+  id: '53751794846'
+  org: null
+  payload:
+    before: 3b4e77b34fe1e03529da8f63dfa64aa46b1e9a73
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Remove aws cli, use converse api, use aws nova
+      sha: 55120e73a36da9cb0a5418c5f45190e6e6048bd0
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/55120e73a36da9cb0a5418c5f45190e6e6048bd0
+    distinct_size: 1
+    head: 55120e73a36da9cb0a5418c5f45190e6e6048bd0
+    push_id: 26333666100
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:29:34+00:00'
+  id: '53751792580'
+  org: null
+  payload:
+    before: 7b716c039fadce9234c2e5e3c3a51d2c8cf391e6
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: tests
+      sha: 3b4e77b34fe1e03529da8f63dfa64aa46b1e9a73
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/3b4e77b34fe1e03529da8f63dfa64aa46b1e9a73
+    distinct_size: 1
+    head: 3b4e77b34fe1e03529da8f63dfa64aa46b1e9a73
+    push_id: 26333664590
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:08:13+00:00'
+  id: '53751560660'
+  org: null
+  payload:
+    before: 285d1aade8f95ba5e09f2c949937670448e48a16
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Remove aws cli, use converse api, use aws nova
+      sha: 7b716c039fadce9234c2e5e3c3a51d2c8cf391e6
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/7b716c039fadce9234c2e5e3c3a51d2c8cf391e6
+    distinct_size: 1
+    head: 7b716c039fadce9234c2e5e3c3a51d2c8cf391e6
+    push_id: 26333519016
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:07:45+00:00'
+  id: '53751555943'
+  org: null
+  payload:
+    before: 112332cca9de5be78fceff45577603a09051681e
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: update readme
+      sha: 285d1aade8f95ba5e09f2c949937670448e48a16
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/285d1aade8f95ba5e09f2c949937670448e48a16
+    distinct_size: 1
+    head: 285d1aade8f95ba5e09f2c949937670448e48a16
+    push_id: 26333516044
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:05:18+00:00'
+  id: '53751530104'
+  org: null
+  payload:
+    before: 5591e7a278660a506dd790449d4b95578388c7a1
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: use converse API, default to nova, remove aws cli
+      sha: 112332cca9de5be78fceff45577603a09051681e
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/112332cca9de5be78fceff45577603a09051681e
+    distinct_size: 1
+    head: 112332cca9de5be78fceff45577603a09051681e
+    push_id: 26333499762
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T03:04:07+00:00'
+  id: '53751517809'
+  org: null
+  payload:
+    before: 9754a607697b655afc7cef32a071830e6712a100
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: expanded tests
+      sha: 5591e7a278660a506dd790449d4b95578388c7a1
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/5591e7a278660a506dd790449d4b95578388c7a1
+    distinct_size: 1
+    head: 5591e7a278660a506dd790449d4b95578388c7a1
+    push_id: 26333491255
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T02:17:31+00:00'
+  id: '53751013287'
+  org: null
+  payload:
+    before: 07d5b91ec0ddc34a7a69e0f3d591da57d7c8fbaa
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: more updates
+      sha: 9754a607697b655afc7cef32a071830e6712a100
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/9754a607697b655afc7cef32a071830e6712a100
+    distinct_size: 1
+    head: 9754a607697b655afc7cef32a071830e6712a100
+    push_id: 26333142371
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T02:13:15+00:00'
+  id: '53750967894'
+  org: null
+  payload:
+    before: 16e64caf6a68c96a819543ede5a3f30da2fd26db
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: remove this.
+      sha: 07d5b91ec0ddc34a7a69e0f3d591da57d7c8fbaa
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/07d5b91ec0ddc34a7a69e0f3d591da57d7c8fbaa
+    distinct_size: 1
+    head: 07d5b91ec0ddc34a7a69e0f3d591da57d7c8fbaa
+    push_id: 26333115386
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T02:12:01+00:00'
+  id: '53750954615'
+  org: null
+  payload:
+    before: 987279e8ba585b9c79c6286768e68a99c256b987
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: Add these vars
+      sha: 16e64caf6a68c96a819543ede5a3f30da2fd26db
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/16e64caf6a68c96a819543ede5a3f30da2fd26db
+    distinct_size: 1
+    head: 16e64caf6a68c96a819543ede5a3f30da2fd26db
+    push_id: 26333107304
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T02:05:50+00:00'
+  id: '53750885975'
+  org: null
+  payload:
+    before: 31167703dd267eff636f8ed9da8829285467ecc7
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: testing help
+      sha: 987279e8ba585b9c79c6286768e68a99c256b987
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/987279e8ba585b9c79c6286768e68a99c256b987
+    distinct_size: 1
+    head: 987279e8ba585b9c79c6286768e68a99c256b987
+    push_id: 26333059639
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T01:59:25+00:00'
+  id: '53750805078'
+  org: null
+  payload:
+    before: f3f79482fc3f572d14149ee52071c556ee8bf91f
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: corrections
+      sha: 31167703dd267eff636f8ed9da8829285467ecc7
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/31167703dd267eff636f8ed9da8829285467ecc7
+    distinct_size: 1
+    head: 31167703dd267eff636f8ed9da8829285467ecc7
+    push_id: 26333001603
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T01:46:11+00:00'
+  id: '53750664445'
+  org: null
+  payload:
+    before: 085be3cdef8268273f4546876973e45367321412
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: More cleanup
+      sha: f3f79482fc3f572d14149ee52071c556ee8bf91f
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/f3f79482fc3f572d14149ee52071c556ee8bf91f
+    distinct_size: 1
+    head: f3f79482fc3f572d14149ee52071c556ee8bf91f
+    push_id: 26332904789
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T01:24:25+00:00'
+  id: '53750419740'
+  org: null
+  payload:
+    before: c240b87a8de30c66e8edc8b84ebf72e4e1330dac
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: remove limits
+      sha: 085be3cdef8268273f4546876973e45367321412
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/085be3cdef8268273f4546876973e45367321412
+    distinct_size: 1
+    head: 085be3cdef8268273f4546876973e45367321412
+    push_id: 26332743791
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-24T00:56:41+00:00'
+  id: '53750106806'
+  org: null
+  payload:
+    before: 70210ce27d04e2c6b35f271ed57a4811a7897077
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: All tests are passing here.
+      sha: c240b87a8de30c66e8edc8b84ebf72e4e1330dac
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/c240b87a8de30c66e8edc8b84ebf72e4e1330dac
+    distinct_size: 1
+    head: c240b87a8de30c66e8edc8b84ebf72e4e1330dac
+    push_id: 26332526087
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-23T20:25:11+00:00'
+  id: '53747026260'
+  org: null
+  payload:
+    before: be8e9cc9411b47ebba19daf4f7f70a742f4c6459
+    commits:
+    - author:
+        email: wayne@theworkmans.us
+        name: Wayne Workman
+      distinct: true
+      message: tests are working
+      sha: 70210ce27d04e2c6b35f271ed57a4811a7897077
+      url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage/commits/70210ce27d04e2c6b35f271ed57a4811a7897077
+    distinct_size: 1
+    head: 70210ce27d04e2c6b35f271ed57a4811a7897077
+    push_id: 26330443441
+    ref: refs/heads/main
+    repository_id: 1033258201
+    size: 1
+  public: true
+  repo:
+    id: 1033258201
+    name: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+    url: https://api.github.com/repos/wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- actor:
+    avatar_url: https://avatars.githubusercontent.com/u/13314799?
+    display_login: wayneworkman
+    gravatar_id: ''
+    id: 13314799
+    login: wayneworkman
+    url: https://api.github.com/users/wayneworkman
+  created_at: '2025-08-23T20:24:52+00:00'
+  id: '53747021921'
+  org: null
+  payload: {}
+  public: true
+  repo:
+    id: 1043363118
+    name: wayneworkman/bedrock-crossregion-tool-workaround
+    url: https://api.github.com/repos/wayneworkman/bedrock-crossregion-tool-workaround
+  type: PublicEvent
