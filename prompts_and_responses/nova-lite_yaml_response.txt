@@ -1,0 +1,45 @@
+MODEL: us.amazon.nova-lite-v1:0
+FORMAT: YAML
+INPUT TOKENS: 4074
+OUTPUT TOKENS: 135
+================================================================================
+
+RAW RESPONSE:
+```yaml
+event_type_counts:
+- event_type: PushEvent
+  count: 13
+- event_type: WatchEvent
+  count: 4
+- event_type: ForkEvent
+  count: 2
+- event_type: CreateEvent
+  count: 1
+- event_type: PublicEvent
+  count: 1
+most_common_event_count: 13
+most_common_event_type: PushEvent
+push_events_with_many_commits: 8
+total_event_types: 5
+total_events: 21
+```
+
+================================================================================
+
+PARSED RESPONSE:
+event_type_counts:
+- count: 13
+  event_type: PushEvent
+- count: 4
+  event_type: WatchEvent
+- count: 2
+  event_type: ForkEvent
+- count: 1
+  event_type: CreateEvent
+- count: 1
+  event_type: PublicEvent
+most_common_event_count: 13
+most_common_event_type: PushEvent
+push_events_with_many_commits: 8
+total_event_types: 5
+total_events: 21

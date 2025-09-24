@@ -1,0 +1,54 @@
+MODEL: us.anthropic.claude-opus-4-1-20250805-v1:0
+FORMAT: JSON
+INPUT TOKENS: 3830
+OUTPUT TOKENS: 136
+================================================================================
+
+RAW RESPONSE:
+{
+  "total_events": 30,
+  "most_common_event_type": "PushEvent",
+  "most_common_event_count": 20,
+  "push_events_with_many_commits": 11,
+  "total_event_types": 5,
+  "event_type_counts": [
+    ["PushEvent", 20],
+    ["WatchEvent", 4],
+    ["ForkEvent", 2],
+    ["CreateEvent", 1],
+    ["PublicEvent", 1]
+  ]
+}
+
+================================================================================
+
+PARSED RESPONSE:
+{
+  "total_events": 30,
+  "most_common_event_type": "PushEvent",
+  "most_common_event_count": 20,
+  "push_events_with_many_commits": 11,
+  "total_event_types": 5,
+  "event_type_counts": [
+    [
+      "PushEvent",
+      20
+    ],
+    [
+      "WatchEvent",
+      4
+    ],
+    [
+      "ForkEvent",
+      2
+    ],
+    [
+      "CreateEvent",
+      1
+    ],
+    [
+      "PublicEvent",
+      1
+    ]
+  ]
+}

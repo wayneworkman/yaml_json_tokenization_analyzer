@@ -1,0 +1,40 @@
+MODEL: us.amazon.nova-premier-v1:0
+FORMAT: YAML
+INPUT TOKENS: 4197
+OUTPUT TOKENS: 123
+================================================================================
+
+RAW RESPONSE:
+```yaml
+total_events: 24
+most_common_event_type: PushEvent
+most_common_event_count: 16
+push_events_with_many_commits: 12
+total_event_types: 5
+event_type_counts:
+  - [PushEvent, 16]
+  - [WatchEvent, 4]
+  - [ForkEvent, 2]
+  - [PublicEvent, 1]
+  - [CreateEvent, 1]
+```
+
+================================================================================
+
+PARSED RESPONSE:
+event_type_counts:
+- - PushEvent
+  - 16
+- - WatchEvent
+  - 4
+- - ForkEvent
+  - 2
+- - PublicEvent
+  - 1
+- - CreateEvent
+  - 1
+most_common_event_count: 16
+most_common_event_type: PushEvent
+push_events_with_many_commits: 12
+total_event_types: 5
+total_events: 24

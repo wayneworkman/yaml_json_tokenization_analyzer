@@ -1,0 +1,38 @@
+MODEL: global.anthropic.claude-sonnet-4-20250514-v1:0
+FORMAT: YAML
+INPUT TOKENS: 4068
+OUTPUT TOKENS: 115
+================================================================================
+
+RAW RESPONSE:
+total_events: 32
+most_common_event_type: PushEvent
+most_common_event_count: 26
+push_events_with_many_commits: 10
+total_event_types: 5
+event_type_counts:
+  - [PushEvent, 26]
+  - [WatchEvent, 3]
+  - [ForkEvent, 2]
+  - [PublicEvent, 1]
+  - [CreateEvent, 1]
+
+================================================================================
+
+PARSED RESPONSE:
+event_type_counts:
+- - PushEvent
+  - 26
+- - WatchEvent
+  - 3
+- - ForkEvent
+  - 2
+- - PublicEvent
+  - 1
+- - CreateEvent
+  - 1
+most_common_event_count: 26
+most_common_event_type: PushEvent
+push_events_with_many_commits: 10
+total_event_types: 5
+total_events: 32

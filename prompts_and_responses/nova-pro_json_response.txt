@@ -1,0 +1,54 @@
+MODEL: us.amazon.nova-pro-v1:0
+FORMAT: JSON
+INPUT TOKENS: 3779
+OUTPUT TOKENS: 126
+================================================================================
+
+RAW RESPONSE:
+{
+  "total_events": 30,
+  "most_common_event_type": "PushEvent",
+  "most_common_event_count": 18,
+  "push_events_with_many_commits": 10,
+  "total_event_types": 5,
+  "event_type_counts": [
+    ["PushEvent", 18],
+    ["WatchEvent", 5],
+    ["ForkEvent", 3],
+    ["PublicEvent", 1],
+    ["CreateEvent", 1]
+  ]
+}
+
+================================================================================
+
+PARSED RESPONSE:
+{
+  "total_events": 30,
+  "most_common_event_type": "PushEvent",
+  "most_common_event_count": 18,
+  "push_events_with_many_commits": 10,
+  "total_event_types": 5,
+  "event_type_counts": [
+    [
+      "PushEvent",
+      18
+    ],
+    [
+      "WatchEvent",
+      5
+    ],
+    [
+      "ForkEvent",
+      3
+    ],
+    [
+      "PublicEvent",
+      1
+    ],
+    [
+      "CreateEvent",
+      1
+    ]
+  ]
+}

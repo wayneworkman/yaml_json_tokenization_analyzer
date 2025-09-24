@@ -1,0 +1,290 @@
+MODEL: us.amazon.nova-premier-v1:0
+FORMAT: YAML
+================================================================================
+
+You must respond with ONLY valid YAML. Do not include any explanatory text, markdown formatting, or code blocks.
+
+Answer these questions about the GitHub events data:
+
+Q1: How many total events are in this dataset? Answer in valid YAML format.
+Q2: What is the most common event type and how many times does it occur? Answer in valid YAML format.
+Q3: How many PushEvents contain more than 2 commits? Answer in valid YAML format.
+Q4: How many different event types are there in total? Answer in valid YAML format.
+Q5: List all event types and their counts in descending order by count. Answer in valid YAML format.
+
+Respond with a YAML document containing your answers. Use these exact keys:
+- total_events: number
+- most_common_event_type: string
+- most_common_event_count: number
+- push_events_with_many_commits: number
+- total_event_types: number
+- event_type_counts: array of [event_type, count] pairs sorted by count descending
+
+Here is the YAML data to analyze:
+
+- created_at: '2025-09-21T06:15:49+00:00'
+  fork_description: null
+  fork_name: wayneworkman/fogproject-aws-devops
+  repo: FOGProject/fogproject-aws-devops
+  type: ForkEvent
+- branch: master
+  commits:
+  - author: Wayne Workman
+    message: Removed files, Add note for new location (#83)
+  - author: Tom Elliott
+    message: "Update copytosvn.sh\n\nAdd version updating capability\r\n\r\nPrefer $HOME/fogproject instead of explicitely to /root/fogproject"
+  - author: Tom Elliott
+    message: 'Update copytosvn.sh
+
+
+      Ensure pot and po are ordered in alphabetical instead of however it feels like running "this" time vs "that" time.'
+  created_at: '2025-09-21T06:13:58+00:00'
+  repo: wayneworkman/fog-community-scripts
+  type: PushEvent
+- action: started
+  created_at: '2025-09-21T06:04:21+00:00'
+  repo: wayneworkman/yaml_json_tokenization_analyzer
+  type: WatchEvent
+- action: started
+  created_at: '2025-09-21T06:04:16+00:00'
+  repo: wayneworkman/yaml_json_tokenization_analyzer
+  type: WatchEvent
+- branch: master
+  commits:
+  - author: Kit Ewbank
+    message: Add 'TestAccVPCFlowLog_upgradeFromV5' acceptance tests.
+  - author: Kit Ewbank
+    message: "Acceptance test output:\n\n% make testacc TESTARGS='-run=TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse' PKG=ec2\nmake: Verifying source code with gofmt...\n==> Checking that code complies with gofmt requirements...\nTF_ACC=1 go1.24.6 test ./internal/service/ec2/... -v -count 1 -parallel 20  -run=TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse -timeout 360m -vet=off\n2025/09/08 11:25:20 Creating Terraform AWS Provider (SDKv2-style)...\n2025/09/08 11:25:20 Initializing Terraform AWS Provider (SDKv2-style)...\n=== RUN   TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse\n=== PAUSE TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse\n=== CONT  TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse\n    vpc_flow_log_test.go:631: Step 2/2 error: Pre-apply plan check(s) failed:\n        'aws_flow_log.test' - expected NoOp, got action(s): [update]\n    panic.go:636: Error retrieving state, there may be dangling resources: exit status 1\n        Failed to marshal state to json: unsupported attribute \"log_group_name\"\n--- FAIL: TestAccVPCFlowLog_upgradeFromV5PlanRefreshFalse (56.71s)\nFAIL\nFAIL\tgithub.com/hashicorp/terraform-provider-aws/internal/service/ec2\t62.380s\nFAIL\nmake: *** [testacc] Error 1"
+  - author: Kit Ewbank
+    message: 'ec2: Add ''flowLogStateUpgradeV0''.'
+  created_at: '2025-09-21T05:44:17+00:00'
+  repo: wayneworkman/terraform-provider-aws
+  type: PushEvent
+- branch: master
+  commits:
+  - author: Josh Kaufman
+    message: Update LICENSE.md
+  - author: Josh Kaufman
+    message: Update README.md
+  created_at: '2025-09-21T05:43:56+00:00'
+  repo: wayneworkman/google-10000-english
+  type: PushEvent
+- branch: master
+  commits:
+  - author: Ivan Szebenszki
+    message: Add two questions to role section
+  - author: Ivan Szebenszki
+    message: 'Update README.md
+
+
+      Co-Authored-By: Alex Ball <alex.ball@pubnub.com>'
+  - author: Ivan Szebenszki
+    message: Merge branch 'master' into role_questions
+  created_at: '2025-09-21T05:43:43+00:00'
+  repo: wayneworkman/reverse-interview
+  type: PushEvent
+- branch: master
+  commits:
+  - author: jamiejones
+    message: "The parsing for the SWF url was wrong (the \"//\" are now escaped and the initial .*match needs to be 'ungreedy'), so the -W setting to rtmpdump was not set, causing the decryption of the video to be wrong.\r\n\r\nAlso only setting \"-q\" to rtmpdump if \"-q\" is sent to youtube-dl\r\n\r\nFinally, add \"&amp;has_verified=1\" to the fetch of the HMTL page to allow fetching of age-restricted videos"
+  - author: jamiejones
+    message: Accidentally added "has_verified" to the wrong line!
+  created_at: '2025-09-21T05:43:16+00:00'
+  repo: wayneworkman/youtube-dl
+  type: PushEvent
+- branch: master
+  commits:
+  - author: dmca-sync-bot
+    message: Process DMCA request
+  - author: DMCA Sync Bot
+    message: 'Merge pull request #18188 from github/updates
+
+
+      Added 2025/07/2025-07-15-source-code-2.md'
+  - author: dmca-sync-bot
+    message: Process DMCA request
+  created_at: '2025-09-21T05:42:45+00:00'
+  repo: wayneworkman/dmca
+  type: PushEvent
+- branch: master
+  commits:
+  - author: Mr-Dave
+    message: '4.2.1
+
+
+      4.2.1'
+  - author: MrDave
+    message: Merge branch 'master' into 4.2
+  - author: Roman Sivriver
+    message: Fixed longest line calculation that caused unneeded scaling of multiline text
+  created_at: '2025-09-21T05:42:58+00:00'
+  repo: wayneworkman/motion
+  type: PushEvent
+- branch: master
+  commits:
+  - author: khlam
+    message: Removed com.samsung.android.app.smartcapture. Seems to crash Default Samsung Camera App
+  - author: khlam
+    message: Add warning to readme.
+  - author: khlam
+    message: Remove netflix, linkedin, office, outlook, and others.
+  created_at: '2025-09-21T05:41:13+00:00'
+  repo: wayneworkman/debloat-samsung-android
+  type: PushEvent
+- branch: master
+  commits:
+  - author: Greyson Parrelli
+    message: Log timestamps of read syncs.
+  - author: Rashad Sookram
+    message: Fix horizontal resize bug with quotes in messages.
+  - author: Cody Henthorne
+    message: Hide bubble for jumbomoji.
+  created_at: '2025-09-21T05:40:59+00:00'
+  repo: wayneworkman/Signal-Android
+  type: PushEvent
+- branch: master
+  commits:
+  - author: lanegramling
+    message: '[youtube] Update signature function patterns (closes #30363) (#30366)'
+  - author: Sergey M․
+    message: '[ChangeLog] Actualize
+
+      [ci skip]'
+  - author: Sergey M․
+    message: release 2021.12.17
+  created_at: '2025-09-21T05:40:37+00:00'
+  repo: wayneworkman/youtube-dl-1
+  type: PushEvent
+- branch: master
+  commits:
+  - author: AsamK
+    message: Add UnregisteredRecipientException
+  - author: AsamK
+    message: Refactor Context to create helpers lazily
+  - author: AsamK
+    message: Extract ReceiveHelper
+  created_at: '2025-09-21T05:39:57+00:00'
+  repo: wayneworkman/signal-cli
+  type: PushEvent
+- branch: master
+  commits:
+  - author: Michael Lawler
+    message: Update .gitlab-ci.yml, upgrade node from 18->20
+  - author: Michael Lawler
+    message: Update .gitlab-ci.yml, without sudo
+  - author: TryTryAgain-gitlab-runner-bot
+    message: Added actions to 'emr-serverless,globalaccelerator'.
+  created_at: '2025-09-21T05:39:21+00:00'
+  repo: wayneworkman/aws-iam-actions-list
+  type: PushEvent
+- action: started
+  created_at: '2025-09-21T05:32:26+00:00'
+  repo: wayneworkman/linuxHelpers
+  type: WatchEvent
+- created_at: '2025-09-19T07:52:59+00:00'
+  repo: wayneworkman/yaml_json_tokenization_analyzer
+  type: PublicEvent
+- created_at: '2025-09-18T01:53:37+00:00'
+  fork_description: A tool to attach persistent storage devices to autoscaling cloud servers.
+  fork_name: wayneworkman/cloud-persistent-storage
+  repo: mfenniak/cloud-persistent-storage
+  type: ForkEvent
+- action: started
+  created_at: '2025-09-18T01:53:24+00:00'
+  repo: mfenniak/cloud-persistent-storage
+  type: WatchEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-13T02:33:34+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-13T02:32:29+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-10T02:21:00+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Rogue Engineer of the Future
+    message: Update README.md
+  created_at: '2025-09-09T23:37:24+00:00'
+  repo: wayneworkman/wayneworkman
+  type: PushEvent
+- created_at: '2025-09-03T23:14:48+00:00'
+  ref: v0.1.1
+  ref_type: tag
+  repo: wayneworkman/terraform_module_cloudfront
+  type: CreateEvent
+- branch: master
+  commits:
+  - author: Wayne Workman
+    message: "Fix WAF OR statement bug and add rate limiting support\n\n  - Fix issue with OR statement requiring minimum 2 child statements\n    by using conditional logic to avoid OR when only one IP set exists\n  - Add rate limiting support with configurable parameters:\n    - enable_rate_limiting: Enable/disable rate limiting\n    - rate_limit_requests: Number of requests allowed per IP\n    - rate_limit_evaluation_window_sec: Time window in seconds\n\n  This fixes deployment errors when using only IPv4 or IPv6 allowlists\n  and enables per-IP rate limiting for CloudFront distributions"
+  created_at: '2025-09-03T23:14:38+00:00'
+  repo: wayneworkman/terraform_module_cloudfront
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: swap to opus to get the truth
+  created_at: '2025-09-01T13:59:29+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: remove referneces to nova.
+  created_at: '2025-09-01T02:28:56+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Improve prompt instructions, terraform warnings, and cut tool usage out of reports.
+  created_at: '2025-09-01T02:17:23+00:00'
+  repo: wayneworkman/terraform-aws-module-cloudwatch-alarm-triage
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Added invoke example for nova lite
+  - author: Wayne Workman
+    message: Changes necessary using the invoke API, going from Nova Lite to Opus 4.
+  - author: Wayne Workman
+    message: strip the comments
+  created_at: '2025-08-27T01:13:13+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Converse API changes necessary to go from Nova Lite to Opus 4
+  created_at: '2025-08-27T00:53:09+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Necessary changes for invoke API from Opus 4 to Nova Lite
+  created_at: '2025-08-27T00:51:54+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent
+- branch: main
+  commits:
+  - author: Wayne Workman
+    message: Added invoke example
+  - author: Wayne Workman
+    message: Change model names to model, to be generic.
+  created_at: '2025-08-27T00:44:53+00:00'
+  repo: wayneworkman/python_aws_bedrock_converse_example
+  type: PushEvent

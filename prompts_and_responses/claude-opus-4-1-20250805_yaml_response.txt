@@ -1,0 +1,38 @@
+MODEL: us.anthropic.claude-opus-4-1-20250805-v1:0
+FORMAT: YAML
+INPUT TOKENS: 4068
+OUTPUT TOKENS: 115
+================================================================================
+
+RAW RESPONSE:
+total_events: 33
+most_common_event_type: PushEvent
+most_common_event_count: 23
+push_events_with_many_commits: 11
+total_event_types: 5
+event_type_counts:
+  - [PushEvent, 23]
+  - [WatchEvent, 4]
+  - [ForkEvent, 3]
+  - [CreateEvent, 2]
+  - [PublicEvent, 1]
+
+================================================================================
+
+PARSED RESPONSE:
+event_type_counts:
+- - PushEvent
+  - 23
+- - WatchEvent
+  - 4
+- - ForkEvent
+  - 3
+- - CreateEvent
+  - 2
+- - PublicEvent
+  - 1
+most_common_event_count: 23
+most_common_event_type: PushEvent
+push_events_with_many_commits: 11
+total_event_types: 5
+total_events: 33
